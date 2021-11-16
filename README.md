@@ -1,5 +1,4 @@
-# Desafio 1
-## Desafio de Inferência Estatística do Bootcamp de Data Science da Tera
+## Desafio de Inferência Estatística
 ## por Por Tamy Tsujimoto
 
 Depressão e Hábitos Saudáveis
