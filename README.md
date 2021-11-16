@@ -1,5 +1,5 @@
 ## Desafio de Inferência Estatística
-## por Por Tamy Tsujimoto
+## Elaborado por Tamy Tsujimoto
 
 Depressão e Hábitos Saudáveis
 
