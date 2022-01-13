@@ -1,6 +1,5 @@
-# Desafio 1
-## Desafio de Inferência Estatítica do Bootcamp de Data Science da Tera
-## por Por Tamy Tsujimoto
+## Desafio de Inferência Estatística
+## Elaborado por Tamy Tsujimoto
 
 Depressão e Hábitos Saudáveis
 
@@ -60,8 +59,9 @@ O PAGA recomenda que adultos se engajem em pelo menos 150 minutos de atividades 
 Roteiro para o Desafio
 
    1 - Bases de dados
-   DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006; 
-   PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
+   
+    DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006; 
+    PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006
  
    2 - Tratamento de dados
 
