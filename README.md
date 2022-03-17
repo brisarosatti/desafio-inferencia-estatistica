@@ -1,6 +1,8 @@
 ## Desafio de Inferência Estatística
-## Elaborado por Tamy Tsujimoto
 
+Resolução do primeiro desafio proposto durante o Bootcamp de Data Science e Machining Learning da Tera. Nesse desafio foi avaliada a seguinte hipótese: "Existe relação entre hábitos saudáveis e sintomas de depressão." Para a realização da análise, assumiu-se que os dados foram obtidos usando uma amostra aleatória da população de interesse. 
+
+## Elaborado por Tamy Tsujimoto
 
 **Depressão e Hábitos Saudáveis**
 
@@ -14,7 +16,7 @@ Neste desafio, utilizaremos dados de uma pesquisa realizada anualmente nos Estad
 
 ##  National Health and Nutrition Examination Survey
 
-O National Health and Nutrition Examination Survey (NHANES) é uma pesquisa anual conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais.
+**O National Health and Nutrition Examination Survey (NHANES) é uma pesquisa anual conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais.**
 
 A pesquisa examina uma amostra de cerca de 5.000 pessoas a cada ano, selecionada à partir de amostragem complexa a fim de selecionar uma amostra representativa da população civil não institucionalizada dos EUA. Sendo assim, as análises utilizando este estudo devem ser realizadas utilizando técnicas e ferramentas que levem em conta a amostragem complexa.
 
